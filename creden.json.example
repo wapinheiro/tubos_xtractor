@@ -1,0 +1,22 @@
+{
+    "websites": [
+        {
+            "name": "Sundance Spas support",
+            "url": "https://www.sundancesupport.com/index.php",
+            "username": "your_sundance_username",
+            "password": "your_sundance_password"
+        },
+        {
+            "name": "Jacuzzi Dealer", 
+            "url": "http://jacuzzidealerdata.com/",
+            "username": "your_jacuzzi_username",
+            "password": "your_jacuzzi_password"
+        },
+        {
+            "name": "Lou Dashboard",
+            "url": "https://lou-dashboard.example.com",
+            "username": "your_lou_username",
+            "password": "your_lou_password"
+        }
+    ]
+}
